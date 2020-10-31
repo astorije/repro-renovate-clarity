@@ -25,10 +25,10 @@
     css-vars-ponyfill "^2.3.2"
     normalize.css "^8.0.1"
 
-"@clr/react@4.0.4":
-  version "4.0.4"
-  resolved "https://registry.yarnpkg.com/@clr/react/-/react-4.0.4.tgz#94bd1fadff30f213a9cec32325f7fd2aff90c61c"
-  integrity sha512-Ft+W8PuuwPL5Y0gtemlxgn3zCPPRquk4xC7tNsSl7NWtA1dt+/1zK/ju8sEPw3jZ2QRyJVldlehz0tnVn5fI0A==
+"@clr/react@4.0.5":
+  version "4.0.5"
+  resolved "https://registry.yarnpkg.com/@clr/react/-/react-4.0.5.tgz#4bdb9024a59c0813620226da65aae3947381a426"
+  integrity sha512-7AJZmWyisF15oMMih3Q0mFbbyGGhZnpWc/368fnyu0DlRBWOqB11N94CACjlgbgAFjShc6v6msWbbS65aXhURg==
   dependencies:
     react "^16.13.1"
     react-dom "^16.13.1"

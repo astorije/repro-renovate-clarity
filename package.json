@@ -3,6 +3,6 @@
   "private": true,
   "dependencies": {
     "@clr/core": "4.0.4",
-    "@clr/react": "4.0.4"
+    "@clr/react": "4.0.5"
   }
 }
