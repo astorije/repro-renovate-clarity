@@ -7,10 +7,10 @@
   resolved "https://registry.yarnpkg.com/@clr/city/-/city-1.1.0.tgz#4a444cd12c626d66ffadab27e9d09bb3c8eca352"
   integrity sha512-R+C4uywmXoTD01LINOt3O0cBRviQdbAVNxdVvOyuO3+rM9bvFroF7UZY0R1ue/xvKXlqJrEkNKZQODeKjzaAhA==
 
-"@clr/core@4.0.4":
-  version "4.0.4"
-  resolved "https://registry.yarnpkg.com/@clr/core/-/core-4.0.4.tgz#5329319ec8f2236b6beabf8a571373888270b6bf"
-  integrity sha512-kNdCOFrLoMoZ1Ym9q2CLlxIx+Eo5g/8aKB/3Ud0QOBG+EvT8nD06wtyk/2FIaYrmEaL2lbR5+Dh/thvzi50wIA==
+"@clr/core@4.0.5":
+  version "4.0.5"
+  resolved "https://registry.yarnpkg.com/@clr/core/-/core-4.0.5.tgz#efc64b858c19984fb177d6c0b0450c96ecd7615b"
+  integrity sha512-xx587YCdoa7UvaZw9m5noiBZY9Oi3wtwJmYXjdZvjalVwhMdXeBy+1NOUow778aTSnosR5zgL33FZ5HQObn47A==
   dependencies:
     "@types/resize-observer-browser" "^0.1.3"
     lit-element "^2.3.1"
