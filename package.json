@@ -2,7 +2,7 @@
   "name": "repro-renovate-clarity",
   "private": true,
   "dependencies": {
-    "@clr/core": "4.0.4",
-    "@clr/react": "4.0.4"
+    "@clr/core": "4.0.9",
+    "@clr/react": "4.0.9"
   }
 }

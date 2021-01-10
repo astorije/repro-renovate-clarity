@@ -7,10 +7,10 @@
   resolved "https://registry.yarnpkg.com/@clr/city/-/city-1.1.0.tgz#4a444cd12c626d66ffadab27e9d09bb3c8eca352"
   integrity sha512-R+C4uywmXoTD01LINOt3O0cBRviQdbAVNxdVvOyuO3+rM9bvFroF7UZY0R1ue/xvKXlqJrEkNKZQODeKjzaAhA==
 
-"@clr/core@4.0.4":
-  version "4.0.4"
-  resolved "https://registry.yarnpkg.com/@clr/core/-/core-4.0.4.tgz#5329319ec8f2236b6beabf8a571373888270b6bf"
-  integrity sha512-kNdCOFrLoMoZ1Ym9q2CLlxIx+Eo5g/8aKB/3Ud0QOBG+EvT8nD06wtyk/2FIaYrmEaL2lbR5+Dh/thvzi50wIA==
+"@clr/core@4.0.9":
+  version "4.0.9"
+  resolved "https://registry.yarnpkg.com/@clr/core/-/core-4.0.9.tgz#544d2f7d19264608f7f22ad516ac82232a43657f"
+  integrity sha512-EpUK822f4d6QOimlfWS39dukBpr4Z72O6dT5LYYOZ+xOWaCdULMimJqo9p3yoGLCDXs8JeqXdBAMBhv5WXYsXQ==
   dependencies:
     "@types/resize-observer-browser" "^0.1.3"
     lit-element "^2.3.1"
@@ -25,10 +25,10 @@
     css-vars-ponyfill "^2.3.2"
     normalize.css "^8.0.1"
 
-"@clr/react@4.0.4":
-  version "4.0.4"
-  resolved "https://registry.yarnpkg.com/@clr/react/-/react-4.0.4.tgz#94bd1fadff30f213a9cec32325f7fd2aff90c61c"
-  integrity sha512-Ft+W8PuuwPL5Y0gtemlxgn3zCPPRquk4xC7tNsSl7NWtA1dt+/1zK/ju8sEPw3jZ2QRyJVldlehz0tnVn5fI0A==
+"@clr/react@4.0.9":
+  version "4.0.9"
+  resolved "https://registry.yarnpkg.com/@clr/react/-/react-4.0.9.tgz#d8100c2b8973cf1152632c25ebcb8e56fd1ae2e8"
+  integrity sha512-lCdr4aDPfvT5Evvgr9+4BKTs9X5T97tbSRPhT5xE8hru0WiSv9/xzG2v1Vms8gwAhWCDbkXoCH9g1rAm/p/01Q==
   dependencies:
     react "^16.13.1"
     react-dom "^16.13.1"
